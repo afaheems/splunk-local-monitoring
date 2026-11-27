@@ -1,0 +1,2 @@
+* host="LAPTOP-LUBG9GD8" source="WinEventLog:System" "EventCode=158"
+| fields - _bkt, _cd
